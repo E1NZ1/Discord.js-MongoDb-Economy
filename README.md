@@ -30,6 +30,7 @@ Good. Now your main thing is ready here is a few functions to use in the command
 data.cash += 100; // add some cash
 data.cash -= 100; // remove cash
 data.cash = 100: // set Cash
+await data.save();
 ```
 
 # Creating Balamce Command
